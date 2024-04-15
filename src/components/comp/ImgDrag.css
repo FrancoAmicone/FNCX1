@@ -1,0 +1,57 @@
+
+  
+  .primary {
+    margin: 0;
+    background-image: url(/src/utils/imgs/1.jpg);
+    background-size: cover;
+    width: 30vh;
+    height: 50vh;
+    position:absolute;
+    top: 20%;
+    left: 35%;
+  }
+  
+  .secondary {
+    margin: 0;
+    background-image: url(/src/utils/imgs/2.jpg);
+    background-size: cover;
+    width: 20vh;
+    height: 20vh;
+    position:absolute;
+    top: 60%;
+    left: 60%;
+  }
+
+  .tercera {
+    margin: 0;
+    background-image: url(/src/utils/imgs/7.jpg);
+    background-size: cover;
+    width: 20vh;
+    height: 20vh;
+    position:absolute;
+    top: 80%;
+    left: 22%;
+  }
+
+  .cuarta {
+    margin: 0;
+    background-image: url(/src/utils/imgs/4.jpg);
+    background-size:cover;
+    width: 20vh;
+    height: 30vh;
+    position:absolute;
+    top: 30%;
+    left: 10%;
+  }
+
+  
+  .quinta {
+    margin: 0;
+    background-image: url(/src/utils/imgs/6.jpg);
+    background-size: cover;
+    width: 20vh;
+    height: 40vh;
+    position:absolute;
+    top: 16%;
+    left: 70%;
+  }
