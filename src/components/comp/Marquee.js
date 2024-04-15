@@ -33,6 +33,7 @@ const Marquee = () => {
                  We are to be, a cycle destined to repeat everything gone to be accord to the gods plans, gods plans,
                  gods plans We are to be, destined to repeat, circle, everything gone to be, circle, everything gone
                  to be accord to the gods plans, gods plans.
+                 Este es un gitpush
                </h3>
    
         </motion.div>
